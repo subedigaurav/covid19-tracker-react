@@ -2,7 +2,7 @@
 
 ## Link to the Live Project:
 
-[LiveProject](https://covid19-tracker-react.herokuapp.com/)
+https://covid19-tracker-react.herokuapp.com/
 
 # **Special thanks to:**
 
